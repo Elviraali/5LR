@@ -1,0 +1,4 @@
+﻿  PSZI 5LR.cpp
+C:\Users\User\source\repos\PSZI 5LR\PSZI 5LR\PSZI 5LR.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\PSZI 5LR\PSZI 5LR\PSZI 5LR.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PSZI 5LR.vcxproj -> C:\Users\User\source\repos\PSZI 5LR\Debug\PSZI 5LR.exe
